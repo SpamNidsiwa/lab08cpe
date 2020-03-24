@@ -95,7 +95,7 @@ export default class App extends Component {
 
   render() {
     return (
-      <Router basename = "/lab8-expenses">
+      <Router basename = "/lab08cpe">
       <div className="container mt-4 mb-5">
         <Header />
 
